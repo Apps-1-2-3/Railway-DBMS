@@ -74,8 +74,7 @@ def PNR():
     for i in range(0,4):
         q=random.choice(p)
         z+=q
-
-
+
 def Booking():
     PNR()
     
